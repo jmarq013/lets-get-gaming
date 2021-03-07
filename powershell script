@@ -1,0 +1,3 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1
